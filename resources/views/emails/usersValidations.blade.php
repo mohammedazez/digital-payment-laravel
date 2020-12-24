@@ -1,0 +1,1 @@
+Halo {{$name}}({{$email}}) Akun Anda {{$status}} Oleh Admin

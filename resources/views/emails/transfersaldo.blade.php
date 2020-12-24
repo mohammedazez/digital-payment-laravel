@@ -1,0 +1,1 @@
+TRANSAKSI Pemindahan Saldo Rp. {{$nominal_tf}} Ke {{$jenis_bank}} ({{$kode_bank}}) no.rekening {{$no_rek}}

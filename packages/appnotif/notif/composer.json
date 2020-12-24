@@ -1,0 +1,13 @@
+{
+    "name": "appnotif/notif",
+    "description": "Package to notification app with FCM",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Misel Julianta Putra",
+            "email": "putramisel1@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

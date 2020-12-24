@@ -1,0 +1,1 @@
+TRANSAKSI Pembelian Voucher Indodax Rp. {{$nominal_order}} ID-trx:#{{$id}} oleh {{$name}}. {{$date}}

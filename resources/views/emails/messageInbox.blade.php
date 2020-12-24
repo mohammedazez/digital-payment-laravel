@@ -1,0 +1,1 @@
+Ada Pesan Masuk Dari #{{$id_from}} ({{$name_from}}). Subject : {{$subject}}, Isi Pesan : {{$isipesan}}.
